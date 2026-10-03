@@ -46,3 +46,15 @@
 	src: url('./font-files/Merriweather/Merriweather-Bold.ttf')
 		format('truetype');
 }
+
+@font-face {
+        font-weight: 400;
+        font-family: 'Ubuntu';
+        src: url('./font-files/Ubuntu/Ubuntu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+        font-weight: 700;
+        font-family: 'Ubuntu';
+        src: url('./font-files/Ubuntu/Ubuntu-Bold.ttf') format('truetype');
+}
